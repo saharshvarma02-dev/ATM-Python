@@ -8,6 +8,6 @@ This is a simple banking system implemented in Python using SQL database.
 1) Python
 2) SQL
 ## Future Improvements
-1) GUI interface
+1) GUI interface using Tkinter
 2) Multi-User login system
 3) Transation History

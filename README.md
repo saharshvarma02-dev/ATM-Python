@@ -11,8 +11,6 @@ This project simulates real-world ATM operations including PIN authentication, w
 - Python
 - Object-Oriented Programming
 - SQL
-- 
 ## Future Improvements
 - File persistence
 - Daily withdrawal limits
-- Admin mode
